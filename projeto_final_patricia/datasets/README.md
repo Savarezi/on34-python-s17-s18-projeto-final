@@ -18,6 +18,7 @@ Este projeto visa realizar uma análise detalhada do Índice Bovespa, ajudando i
 * **Seaborn** : Biblioteca para visualização estatística baseada em Matplotlib.
 * **Jupyter Notebook** : Ambiente para desenvolvimento interativo.
 * **Tableau** : Ferramenta de visualização de dados.
+* **Fgma** : Criação dos slide
 
 # Estrutura do Projeto 📁
 
@@ -85,7 +86,10 @@ Explore o dashboard interativo que criei no Tableau, onde você pode visualizar 
 
 👉 [Análise Mercado Financeiro](https://public.tableau.com/app/profile/patricia.oliveira8640/viz/AnliseMercadoFinanceiro/AnliseIndividual)
 
-Para uma visualização detalhada do projeto, confira os slides da análise financeira que elaborei no Figma     👉     https://www.figma.com/deck/X2EOhD2ZLmIyLBkeVHVmVE
+Para uma visualização detalhada do projeto, confira os slides da análise financeira que elaborei no Figma:
+
+👉 [Slide](https://www.figma.com/deck/X2EOhD2ZLmIyLBkeVHVmVE)
+
 
 ## Contribuições 🤝
 
