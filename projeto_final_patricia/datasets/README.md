@@ -6,7 +6,6 @@ Este projeto visa realizar uma análise detalhada do Índice Bovespa, ajudando i
 
 ## Objetivos 🎯
 
-
 * Analisar e interpretar dados financeiros de empresas listadas no Índice Bovespa.
 * Identificar padrões e tendências nos dados de ações.
 * Fornecer recomendações de investimento com base nas análises realizadas.
@@ -34,7 +33,6 @@ Análise_Financeira/
 └── visualizacoes/
     └── analise_visualizacao.tableau
 
-
 ## Como Executar o Projeto 🚀
 
 1. **Clone o repositório** :
@@ -42,15 +40,13 @@ Análise_Financeira/
 git clone <URL_do_repositório>
 cd Análise_Financeira
 
-
 2. **Instale as dependências** :
    Certifique-se de ter o Python e as bibliotecas necessárias instaladas. Você pode usar `pip` para instalar as dependências:
 
    pip install pandas matplotlib seaborn openpyxl
-4. **Execute o Jupyter Notebook** :
+3. **Execute o Jupyter Notebook** :
 
    jupyter notebook notebooks/analise_financeira.ipynb
-
 
  **Visualize os gráficos** :
 
@@ -58,10 +54,7 @@ Após executar as células do Jupyter Notebook, você verá os gráficos gerados
 
 ![1728259559903](image/README/1728259559903.png)
 
-##
-
 ![1728259607723](image/README/1728259607723.png)
-
 
 ## Análise Realizada 🔍
 
@@ -91,6 +84,8 @@ Após executar as células do Jupyter Notebook, você verá os gráficos gerados
 Explore o dashboard interativo que criei no Tableau, onde você pode visualizar a análise em detalhes:
 
 👉 [Análise Mercado Financeiro](https://public.tableau.com/app/profile/patricia.oliveira8640/viz/AnliseMercadoFinanceiro/AnliseIndividual)
+
+Para uma visualização detalhada do projeto, confira os slides da análise financeira que elaborei no Figma     👉     https://www.figma.com/deck/X2EOhD2ZLmIyLBkeVHVmVE
 
 ## Contribuições 🤝
 
