@@ -4,6 +4,9 @@
 
 Este projeto visa realizar uma análise detalhada do Índice Bovespa, ajudando investidores a tomar decisões informadas sobre quais ações investir. Utilizamos técnicas de análise exploratória de dados e visualizações em Tableau para apresentar os resultados de forma clara e intuitiva. 📈
 
+![BPO-FINANCEIRO-PARA-CLINICAS-MEDICAS](https://github.com/user-attachments/assets/7e185f8e-f7fe-4002-9b11-c5fc3d4aba6a)
+
+
 ## Objetivos 🎯
 
 * Analisar e interpretar dados financeiros de empresas listadas no Índice Bovespa.
