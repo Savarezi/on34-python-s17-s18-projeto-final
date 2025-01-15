@@ -108,4 +108,4 @@ Para mais informações, entre em contato:
 
 * **Nome** : Patrícia Oliveira
 * **E-mail** : patriciasavarezioliveira@gmail.com
-* **LinkedIn** : [Patrícia Oliveira](https://www.linkedin.com/in/patyoliver)
+* **LinkedIn** : [Patrícia Oliveira](https://www.linkedin.com/in/savarezi)
